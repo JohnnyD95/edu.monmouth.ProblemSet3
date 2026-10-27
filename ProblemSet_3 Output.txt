@@ -1,0 +1,35 @@
+default values:
+unknown
+unknown
+true
+UNKNOWN
+new values:
+mu_kamp2026
+parking lot
+false
+BLUE
+second vehicle:
+mu_dileo
+library
+true
+BLUE
+Vehicle 2 updated color:
+mu_dileo
+library
+true
+GREEN
+Vehicle 3: 
+mu2026
+spruce hall
+true
+BLACK
+Vehicle 4: 
+unknown
+library
+false
+WHITE
+Vehicle 5: 
+mu10012
+unknown
+true
+SILVER
